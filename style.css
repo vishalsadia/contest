@@ -1,0 +1,138 @@
+*{
+margin: 0px;
+
+}
+#stick{
+    position: sticky;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 2000px;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,.08);
+    position: fixed;
+    
+}
+#block{
+    background-color: black;
+    color: white;
+
+}
+
+#jeff{
+ position: absolute;
+width: 697px;
+height: 482px;
+left: 578px;
+top: 119px;
+
+background: url(jeff.jpg);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+} 
+#btn{
+    background-color: orange;
+    color: black;
+    font-weight: 700;
+    border-radius: 10px;
+
+}
+#form{
+    background-color: black;
+    color: orange;
+    width: 95px;
+   
+    height: 39px;
+    top: 587px;
+    left: 177px;
+
+}
+#h3{
+    width: 155px;
+height: 34px;
+top: 26px;
+left: 1365px;
+
+}
+#name{
+    width: 917px;
+height: 34px;
+top: 937px;
+left: 121px;
+border: 2px solid #FCAF02;
+
+}
+#email{
+    width: 1570px;
+height: 82px;
+top: 1045px;
+left: 63px;
+border-radius: 100px;
+border: 2px;
+border: 2px solid #FCAF02;
+
+}
+#num{
+    width: 426.38px;
+height: 34px;
+top: 1201px;
+left: 121px;
+font-family: Montserrat;
+font-size: 28px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+background: #FCAF02;
+
+
+}
+#city{
+    width: 447.99px;
+    height: 34px;
+    top: 1201px;
+    left: 926.94px;
+    font-family: Montserrat;
+font-size: 28px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+background: #FCAF02;
+
+
+}
+#sbmt{
+    width: 219px;
+height: 39px;
+top: 1347px;
+left: 738px;
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+table{
+    background-color: black;
+    border: 2px solid #FCAF02;
+    width: 500px;
+height: 555px;
+top: 1524px;
+left: 75px;
+border: 2px;
+
+}
+#lastrow{
+    background-color: #FCAF02;
+    color: black;
+
+}
